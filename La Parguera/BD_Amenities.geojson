@@ -1,0 +1,1204 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-07-28T09:03:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392855170",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Yolanda's",
+        "phone": "+17878997676",
+        "@timestamp": "2020-04-28T17:49:56Z",
+        "@version": 4,
+        "@changeset": 84283377,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0488347,
+              17.9742688
+            ],
+            [
+              -67.0488294,
+              17.9740972
+            ],
+            [
+              -67.0486136,
+              17.9741038
+            ],
+            [
+              -67.04854,
+              17.9741149
+            ],
+            [
+              -67.0484738,
+              17.9742922
+            ],
+            [
+              -67.0486543,
+              17.974272
+            ],
+            [
+              -67.0488347,
+              17.9742688
+            ]
+          ]
+        ]
+      },
+      "id": "way/392855170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/471319396",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "Moorings",
+        "@timestamp": "2017-02-02T01:56:38Z",
+        "@version": 2,
+        "@changeset": 45732509,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0503478,
+              17.9741006
+            ],
+            [
+              -67.050245,
+              17.9740571
+            ],
+            [
+              -67.0502021,
+              17.974149
+            ],
+            [
+              -67.0503049,
+              17.9741925
+            ],
+            [
+              -67.0503478,
+              17.9741006
+            ]
+          ]
+        ]
+      },
+      "id": "way/471319396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/471319397",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Avilés",
+        "@timestamp": "2017-04-26T04:28:16Z",
+        "@version": 2,
+        "@changeset": 48148884,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0505807,
+              17.9741937
+            ],
+            [
+              -67.0505346,
+              17.9742974
+            ],
+            [
+              -67.0505875,
+              17.9743187
+            ],
+            [
+              -67.0506337,
+              17.974215
+            ],
+            [
+              -67.0505807,
+              17.9741937
+            ]
+          ]
+        ]
+      },
+      "id": "way/471319397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/471319399",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Pura Platti Gonzáles",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:30",
+        "phone": "+17878993100",
+        "wheelchair": "yes",
+        "@timestamp": "2017-10-21T00:25:15Z",
+        "@version": 2,
+        "@changeset": 53117181,
+        "@user": "barbararod",
+        "@uid": 6826716
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.046208,
+              17.9754948
+            ],
+            [
+              -67.0461129,
+              17.9753574
+            ],
+            [
+              -67.046032,
+              17.9754004
+            ],
+            [
+              -67.0460845,
+              17.9754897
+            ],
+            [
+              -67.0460179,
+              17.9755252
+            ],
+            [
+              -67.0460556,
+              17.9755893
+            ],
+            [
+              -67.0460634,
+              17.9755769
+            ],
+            [
+              -67.046208,
+              17.9754948
+            ]
+          ]
+        ]
+      },
+      "id": "way/471319399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472823093",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mar & Tierra",
+        "@timestamp": "2020-04-28T17:49:56Z",
+        "@version": 4,
+        "@changeset": 84283377,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0487487,
+              17.9738091
+            ],
+            [
+              -67.0487499,
+              17.9735982
+            ],
+            [
+              -67.0485873,
+              17.9736005
+            ],
+            [
+              -67.0485841,
+              17.9738065
+            ],
+            [
+              -67.0486105,
+              17.9738073
+            ],
+            [
+              -67.0487487,
+              17.9738091
+            ]
+          ]
+        ]
+      },
+      "id": "way/472823093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472823097",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Reef Pop",
+        "@timestamp": "2020-04-28T17:49:56Z",
+        "@version": 2,
+        "@changeset": 84283377,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0487933,
+              17.9738829
+            ],
+            [
+              -67.0486867,
+              17.9738836
+            ],
+            [
+              -67.0486874,
+              17.9739166
+            ],
+            [
+              -67.0486564,
+              17.973918
+            ],
+            [
+              -67.0486574,
+              17.9739802
+            ],
+            [
+              -67.0486588,
+              17.9740407
+            ],
+            [
+              -67.048696,
+              17.9740406
+            ],
+            [
+              -67.0488027,
+              17.9740402
+            ],
+            [
+              -67.0487933,
+              17.9738829
+            ]
+          ]
+        ]
+      },
+      "id": "way/472823097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472823099",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Los Balcones",
+        "@timestamp": "2020-04-28T17:49:56Z",
+        "@version": 2,
+        "@changeset": 84283377,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0491167,
+              17.9738761
+            ],
+            [
+              -67.0489645,
+              17.9738736
+            ],
+            [
+              -67.0489648,
+              17.9738815
+            ],
+            [
+              -67.0489654,
+              17.9738968
+            ],
+            [
+              -67.0489686,
+              17.973975
+            ],
+            [
+              -67.0489706,
+              17.9740234
+            ],
+            [
+              -67.0489962,
+              17.974023
+            ],
+            [
+              -67.0490008,
+              17.9740414
+            ],
+            [
+              -67.0490856,
+              17.9740146
+            ],
+            [
+              -67.0491028,
+              17.9740096
+            ],
+            [
+              -67.0491035,
+              17.9739838
+            ],
+            [
+              -67.0491191,
+              17.9739815
+            ],
+            [
+              -67.0491167,
+              17.9738761
+            ]
+          ]
+        ]
+      },
+      "id": "way/472823099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472823100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Capilla Catolica San Pedro",
+        "name:en": "St. Peter Catholic Church",
+        "religion": "christian",
+        "service_times": "Sa 19:00, Su 11:30",
+        "@timestamp": "2017-02-07T01:30:11Z",
+        "@version": 1,
+        "@changeset": 45871445,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0499782,
+              17.974028
+            ],
+            [
+              -67.049859,
+              17.9740048
+            ],
+            [
+              -67.049811,
+              17.9742279
+            ],
+            [
+              -67.0499302,
+              17.9742511
+            ],
+            [
+              -67.0499782,
+              17.974028
+            ]
+          ]
+        ]
+      },
+      "id": "way/472823100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474068058",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "El Laurel",
+        "phone": "+17878996951",
+        "@timestamp": "2017-02-11T22:49:31Z",
+        "@version": 1,
+        "@changeset": 46008686,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.047535,
+              17.9739153
+            ],
+            [
+              -67.0474351,
+              17.9739217
+            ],
+            [
+              -67.0475042,
+              17.9740346
+            ],
+            [
+              -67.0475357,
+              17.9740218
+            ],
+            [
+              -67.047535,
+              17.9739153
+            ]
+          ]
+        ]
+      },
+      "id": "way/474068058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474068059",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Caballito De Mar",
+        "@timestamp": "2017-05-18T22:15:13Z",
+        "@version": 2,
+        "@changeset": 48804861,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0460527,
+              17.9730565
+            ],
+            [
+              -67.0460168,
+              17.9730364
+            ],
+            [
+              -67.04597,
+              17.9730009
+            ],
+            [
+              -67.045931,
+              17.9730498
+            ],
+            [
+              -67.045941,
+              17.973069
+            ],
+            [
+              -67.0459237,
+              17.9731036
+            ],
+            [
+              -67.0460071,
+              17.9731432
+            ],
+            [
+              -67.0460527,
+              17.9730565
+            ]
+          ]
+        ]
+      },
+      "id": "way/474068059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474942784",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "El Turrumote",
+        "phone": "+17878993361",
+        "@timestamp": "2017-10-17T05:40:02Z",
+        "@version": 3,
+        "@changeset": 53000946,
+        "@user": "chantellieliz",
+        "@uid": 6781859
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0387713,
+              17.9729137
+            ],
+            [
+              -67.0388416,
+              17.9728196
+            ],
+            [
+              -67.0387073,
+              17.9727289
+            ],
+            [
+              -67.038637,
+              17.972823
+            ],
+            [
+              -67.0387713,
+              17.9729137
+            ]
+          ]
+        ]
+      },
+      "id": "way/474942784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475411464",
+        "amenity": "restaurant",
+        "building": "hotel",
+        "name": "La Jamaca",
+        "phone": "+17878996162",
+        "tourism": "hotel",
+        "@timestamp": "2017-02-25T02:27:43Z",
+        "@version": 2,
+        "@changeset": 46384167,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0545111,
+              17.978015
+            ],
+            [
+              -67.0542701,
+              17.9779033
+            ],
+            [
+              -67.0542044,
+              17.9780314
+            ],
+            [
+              -67.0543084,
+              17.9780796
+            ],
+            [
+              -67.0542555,
+              17.9781827
+            ],
+            [
+              -67.0543926,
+              17.9782463
+            ],
+            [
+              -67.0545111,
+              17.978015
+            ]
+          ]
+        ]
+      },
+      "id": "way/475411464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481296474",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Puerto Parguera",
+        "phone": "+17878081640",
+        "@timestamp": "2020-04-28T17:49:56Z",
+        "@version": 4,
+        "@changeset": 84283377,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0482457,
+              17.9737805
+            ],
+            [
+              -67.048246,
+              17.9736223
+            ],
+            [
+              -67.048246,
+              17.9736103
+            ],
+            [
+              -67.0481085,
+              17.9736028
+            ],
+            [
+              -67.0481049,
+              17.9736809
+            ],
+            [
+              -67.0480983,
+              17.9737767
+            ],
+            [
+              -67.0482457,
+              17.9737805
+            ]
+          ]
+        ]
+      },
+      "id": "way/481296474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481296475",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Tony's Pizza",
+        "@timestamp": "2020-04-28T03:53:17Z",
+        "@version": 3,
+        "@changeset": 84231418,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0483376,
+              17.9737833
+            ],
+            [
+              -67.0483428,
+              17.9736453
+            ],
+            [
+              -67.0483445,
+              17.9736273
+            ],
+            [
+              -67.048246,
+              17.9736223
+            ],
+            [
+              -67.0482457,
+              17.9737805
+            ],
+            [
+              -67.0483376,
+              17.9737833
+            ]
+          ]
+        ]
+      },
+      "id": "way/481296475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483837467",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "La Casita",
+        "@timestamp": "2017-03-31T02:39:12Z",
+        "@version": 1,
+        "@changeset": 47311045,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0511915,
+              17.974338
+            ],
+            [
+              -67.0514184,
+              17.9743348
+            ],
+            [
+              -67.0514164,
+              17.9742054
+            ],
+            [
+              -67.0511895,
+              17.9742085
+            ],
+            [
+              -67.0511915,
+              17.974338
+            ]
+          ]
+        ]
+      },
+      "id": "way/483837467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483837480",
+        "amenity": "fuel",
+        "building": "roof",
+        "@timestamp": "2017-03-31T02:39:13Z",
+        "@version": 1,
+        "@changeset": 47311045,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0495795,
+              17.9762706
+            ],
+            [
+              -67.0495957,
+              17.9761671
+            ],
+            [
+              -67.0495047,
+              17.9761542
+            ],
+            [
+              -67.0494885,
+              17.9762577
+            ],
+            [
+              -67.0495795,
+              17.9762706
+            ]
+          ]
+        ]
+      },
+      "id": "way/483837480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483837481",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "name": "West Divers",
+        "phone": "+17878993223",
+        "@timestamp": "2017-03-31T02:39:14Z",
+        "@version": 1,
+        "@changeset": 47311045,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0481713,
+              17.9747252
+            ],
+            [
+              -67.0482028,
+              17.9746493
+            ],
+            [
+              -67.048148,
+              17.9746287
+            ],
+            [
+              -67.0481165,
+              17.9747046
+            ],
+            [
+              -67.0481713,
+              17.9747252
+            ]
+          ]
+        ]
+      },
+      "id": "way/483837481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483837482",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "email": "paradisescubapr@gmail.com",
+        "name": "Paradise Scuba & Snorkeling Center",
+        "phone": "+17878997611",
+        "website": "https://www.paradisescubasnorkelingpr.com/",
+        "@timestamp": "2019-03-16T08:35:19Z",
+        "@version": 2,
+        "@changeset": 68197910,
+        "@user": "b-jazz-bot",
+        "@uid": 9451067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0485292,
+              17.97386
+            ],
+            [
+              -67.0484514,
+              17.973853
+            ],
+            [
+              -67.0484453,
+              17.9739146
+            ],
+            [
+              -67.0484655,
+              17.9739164
+            ],
+            [
+              -67.0484622,
+              17.9739502
+            ],
+            [
+              -67.0485099,
+              17.9739545
+            ],
+            [
+              -67.0485132,
+              17.9739207
+            ],
+            [
+              -67.0485231,
+              17.9739216
+            ],
+            [
+              -67.0485292,
+              17.97386
+            ]
+          ]
+        ]
+      },
+      "id": "way/483837482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489487018",
+        "amenity": "cafe",
+        "building": "kiosk",
+        "name": "Friend's Cafe",
+        "@timestamp": "2017-04-26T04:28:15Z",
+        "@version": 1,
+        "@changeset": 48148884,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0489495,
+              17.9737351
+            ],
+            [
+              -67.0489499,
+              17.9737124
+            ],
+            [
+              -67.0489107,
+              17.9737117
+            ],
+            [
+              -67.0489103,
+              17.9737345
+            ],
+            [
+              -67.0489495,
+              17.9737351
+            ]
+          ]
+        ]
+      },
+      "id": "way/489487018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489487019",
+        "amenity": "bar",
+        "building": "kiosk",
+        "name": "El Mangle",
+        "outdoor_seating": "yes",
+        "@timestamp": "2017-04-26T04:28:15Z",
+        "@version": 1,
+        "@changeset": 48148884,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0489503,
+              17.9736914
+            ],
+            [
+              -67.0489508,
+              17.9736666
+            ],
+            [
+              -67.0489116,
+              17.973666
+            ],
+            [
+              -67.0489111,
+              17.9736908
+            ],
+            [
+              -67.0489503,
+              17.9736914
+            ]
+          ]
+        ]
+      },
+      "id": "way/489487019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489487021",
+        "alt_name": "El Karakol",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "El Karacol",
+        "@timestamp": "2020-04-28T03:53:17Z",
+        "@version": 2,
+        "@changeset": 84231418,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0482973,
+              17.9735694
+            ],
+            [
+              -67.0484578,
+              17.9736051
+            ],
+            [
+              -67.0484712,
+              17.9734831
+            ],
+            [
+              -67.048386,
+              17.9734644
+            ],
+            [
+              -67.0483662,
+              17.9734601
+            ],
+            [
+              -67.0483756,
+              17.9734332
+            ],
+            [
+              -67.0483494,
+              17.9734248
+            ],
+            [
+              -67.0482973,
+              17.9735694
+            ]
+          ]
+        ]
+      },
+      "id": "way/489487021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/494545611",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Moons",
+        "outdoor_seating": "yes",
+        "@timestamp": "2017-05-19T00:50:41Z",
+        "@version": 1,
+        "@changeset": 48806999,
+        "@user": "aki_k",
+        "@uid": 37616
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0483064,
+              17.9742226
+            ],
+            [
+              -67.0482719,
+              17.9743077
+            ],
+            [
+              -67.048313,
+              17.9743228
+            ],
+            [
+              -67.0483279,
+              17.9743275
+            ],
+            [
+              -67.0483427,
+              17.974326
+            ],
+            [
+              -67.0483567,
+              17.9743144
+            ],
+            [
+              -67.0483642,
+              17.9742998
+            ],
+            [
+              -67.048384,
+              17.974251
+            ],
+            [
+              -67.0483064,
+              17.9742226
+            ]
+          ]
+        ]
+      },
+      "id": "way/494545611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/668368638",
+        "amenity": "shelter",
+        "building": "yes",
+        "shelter_type": "gazebo",
+        "@timestamp": "2019-02-05T00:29:44Z",
+        "@version": 1,
+        "@changeset": 66918546,
+        "@user": "jmoliver",
+        "@uid": 50971
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0513696,
+              17.9772924
+            ],
+            [
+              -67.0514141,
+              17.977208
+            ],
+            [
+              -67.0513521,
+              17.9771784
+            ],
+            [
+              -67.0513075,
+              17.9772628
+            ],
+            [
+              -67.0513696,
+              17.9772924
+            ]
+          ]
+        ]
+      },
+      "id": "way/668368638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/797641703",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Isla Cueva",
+        "@timestamp": "2020-04-28T17:49:56Z",
+        "@version": 1,
+        "@changeset": 84283377,
+        "@user": "Pedrolrizarry",
+        "@uid": 11092882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.0489722,
+              17.9740612
+            ],
+            [
+              -67.0489706,
+              17.9740234
+            ],
+            [
+              -67.0489686,
+              17.973975
+            ],
+            [
+              -67.0489654,
+              17.9738968
+            ],
+            [
+              -67.0489648,
+              17.9738815
+            ],
+            [
+              -67.0488768,
+              17.9738807
+            ],
+            [
+              -67.0488781,
+              17.9740628
+            ],
+            [
+              -67.0489722,
+              17.9740612
+            ]
+          ]
+        ]
+      },
+      "id": "way/797641703"
+    }
+  ]
+}
